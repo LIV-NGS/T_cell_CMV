@@ -1,4 +1,4 @@
-library(Seurat)
+library(Seurat) # Version 4 as in MS
 library(dplyr)
 library(gdata)
 library(ggplot2)
