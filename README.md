@@ -1,9 +1,9 @@
 [![R](https://ziadoua.github.io/m3-Markdown-Badges/badges/R/r1.svg)](https://www.r-project.org/)
 
 
-**Limited protection against early-life cytomegalovirus infection results from deficiency of cytotoxic CD8 T cells
+# Limited protection against early-life cytomegalovirus infection results from deficiency of cytotoxic CD8 T cells
 
-**Abstract
+**Abstract**
 ```
 Differential antiviral T cell immunity in early life impacts the clinical outcome of Cytomegalovirus (CMV) infection,
 but the underlying mechanisms are not well understood. Here, we found delayed enrichment of early-life murine CMV-specific
@@ -15,7 +15,7 @@ of antiviral human CD8 T cells in newborns with congenital CMV. Together, this s
 as an important factor explaining the higher risk for CMV disease in the early-life phase.
 ```
 
-**Info
+**Info**
 
 1. Repository includes Data analysis and figure generation code for this paper.
 2. Processed filtered counts for the samples are not uploaded during making of this repository. 
